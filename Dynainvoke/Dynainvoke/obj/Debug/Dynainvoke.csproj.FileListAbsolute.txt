@@ -1,0 +1,6 @@
+C:\projects\קורס .net\11.1\Dynainvoke\Dynainvoke\bin\Debug\Dynainvoke.exe.config
+C:\projects\קורס .net\11.1\Dynainvoke\Dynainvoke\bin\Debug\Dynainvoke.exe
+C:\projects\קורס .net\11.1\Dynainvoke\Dynainvoke\bin\Debug\Dynainvoke.pdb
+C:\projects\קורס .net\11.1\Dynainvoke\Dynainvoke\obj\Debug\Dynainvoke.csprojResolveAssemblyReference.cache
+C:\projects\קורס .net\11.1\Dynainvoke\Dynainvoke\obj\Debug\Dynainvoke.exe
+C:\projects\קורס .net\11.1\Dynainvoke\Dynainvoke\obj\Debug\Dynainvoke.pdb
